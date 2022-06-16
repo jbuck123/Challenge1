@@ -64,12 +64,13 @@ figure img {
 /* main styles  */
 
 main {
-    float: left;
+    /* float: left; */
     width: 75%; 
     background-color: #d9dcd6;
     clear: both;    
     padding: 25px;  
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
 }
 
 section {
@@ -106,8 +107,8 @@ section {
 }
 aside {
 margin-top: 25px;
-margin-right: 25px;
-margin-left: 25px;
+margin-right: 15px;
+/* margin-left: 25px; */
 width: 20%;
 float: right;
 clear: both;
