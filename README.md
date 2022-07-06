@@ -14,11 +14,11 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-#Screenshot of my website 
+# Screenshot of my website 
 ![Screenshot](./Develop/assets/images/screenshot.png)
 
 
-###Active link to the website 
+### Active link to the website 
 
 
 
